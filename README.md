@@ -5,6 +5,10 @@
  - Created with Python
  
  ---
+[![IP Tracer demonstration](https://img.youtube.com/vi/IM8uMG4UIb4/0.jpg)](https://www.youtube.com/watch?v=IM8uMG4UIb4)
+
+[IP trace demonstration video]( https://youtube.com/shorts/IM8uMG4UIb4?feature=share)
+---
  
  ### Usage Instructions
  1. open terminal and run 
