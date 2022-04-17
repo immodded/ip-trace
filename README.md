@@ -8,7 +8,7 @@
  
  ### Usage Instructions
  1. open terminal and run 
- 2. ``` git clone https://www.github.com/immodded/ip-tracer.git```
+ 2. ``` git clone https://www.github.com/immodded/ip-trace.git```
  3. ``` cd ip-tracer ```
  4. ``` pip install -r requirements.txt ```
  5. ``` python ipTracer.py ```
